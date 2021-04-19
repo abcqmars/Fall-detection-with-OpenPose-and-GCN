@@ -1,8 +1,9 @@
 # Fall_detection_by_gcn
 
-## Some Examples:
-Fall Detection demo: <br>
-The red rectangular would blink just after the fall events happen.
+
+## Some Examples of Fall Detection Demo: <br>
+1. The red rectangular would blink just after the fall events happen.
+2. It runs with 6 fps on gtx 1060 GPU.
 * Fall forward <br>
 ![](https://github.com/abcqmars/Fall_detection_by_gcn/blob/main/examples/fall_forward.gif)<br>
 * Fall backward <br>
