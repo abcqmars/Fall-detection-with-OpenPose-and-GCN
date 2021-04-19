@@ -16,5 +16,5 @@
 ## installation:
 1. Following [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose), install openpose onto your computer first.
 2. Install [pytorch](https://pytorch.org/).
-3. Copy directory /net, and file 'Fall_detection_demo.py' into the $Openpose_path/python.
+3. Copy '/net', and 'Fall_detection_demo.py' into the $Openpose_path/python.
 4. python3 Fall_detection_demo.py to run the demo.
