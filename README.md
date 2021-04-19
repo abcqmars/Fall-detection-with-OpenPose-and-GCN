@@ -1,6 +1,3 @@
-# Fall_detection_by_gcn
-
-
 ## Some Examples of Fall Detection Demo: <br>
 1. The red rectangular would blink just after the fall events happen.
 2. It runs with 6 fps on gtx 1060 GPU.
