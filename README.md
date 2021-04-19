@@ -1,7 +1,7 @@
 # Fall_detection_by_gcn
 
-## Some Results:
-Detection in real environment: <br>
+## Some Examples:
+Fall Detection demo: <br>
 The red rectangular would blink just after the fall events happen.
 * Fall forward <br>
 ![](https://github.com/abcqmars/Fall_detection_by_gcn/blob/main/examples/fall_forward.gif)<br>
