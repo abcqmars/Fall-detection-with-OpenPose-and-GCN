@@ -1,5 +1,5 @@
 ## Some Examples of Fall Detection Demo: <br>
-1. The red rectangular would blink just after the fall events happen.
+1. The warning (red rectangular) would flash on sreen after fall events appear.
 2. It runs with 6 fps on gtx 1060 GPU.
 * Fall forward <br>
 ![](https://github.com/abcqmars/Fall_detection_by_gcn/blob/main/examples/fall_forward.gif)<br>
